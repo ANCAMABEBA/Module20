@@ -1,8 +1,21 @@
 # Module20
 Initial Report and Exploratory Analysis (EDA)
 ## Baseline Credit Default Model — Summary of Findings
+The purpose of this notebook is to perform an end-to-end exploratory data analysis (EDA) and develop a baseline predictive model to understand the key drivers of loan default risk.
+The analysis focuses on:
+- Understanding borrower, loan, and credit characteristics
+- Identifying variables that differentiate default vs non-default behavior
+- Establishing a robust, interpretable baseline model to serve as a benchmark for further refinement
 
-This project implements a baseline logistic regression model to predict credit default risk and establish an initial performance benchmark.
+The Jupiter Notebook can be found here: [InitialReportEDA.ipynb](https://github.com/ANCAMABEBA/Module20/blob/main/InitialReportEDA.ipynb)
+
+### Analytical Approach
+The analysis follows a structured workflow:
+- Data Cleaning**
+- Exploratory Data Analysis**
+- Feature Engineering**
+- Feature Selection**
+- Baseline Modeling**
 
 ### Model Performance
 - Achieved an **ROC–AUC of 0.708**, indicating **moderate discriminatory power**.
