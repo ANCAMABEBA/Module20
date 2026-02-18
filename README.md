@@ -9,6 +9,8 @@ The analysis focuses on:
 
 The Jupiter Notebook can be found here: [InitialReportEDA.ipynb](https://github.com/ANCAMABEBA/Module20/blob/main/InitialReportEDA.ipynb)
 
+Dataset ("loan.csv") is from kaggle ("Lending Club Loan Data"): https://www.kaggle.com/datasets/saurabh13nov/lending-club-loan-data
+
 ### Analytical Approach
 The analysis follows a structured workflow:
 - Data Cleaning**
