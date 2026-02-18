@@ -13,11 +13,11 @@ Dataset ("loan.csv") is from kaggle ("Lending Club Loan Data"): https://www.kagg
 
 ### Analytical Approach
 The analysis follows a structured workflow:
-- Data Cleaning**
-- Exploratory Data Analysis**
-- Feature Engineering**
-- Feature Selection**
-- Baseline Modeling**
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Feature Selection
+- Baseline Modeling
 
 ### Model Performance
 - Achieved an **ROC–AUC of 0.708**, indicating **moderate discriminatory power**.
