@@ -1,6 +1,6 @@
 # Module20
-Initial Report and Exploratory Analysis (EDA)
-## Baseline Credit Default Model — Summary of Findings
+
+## Initial Report: EDA and Baseline Credit Default Model — Summary of Findings
 The purpose of this notebook is to perform an end-to-end exploratory data analysis (EDA) and develop a baseline predictive model to understand the key drivers of loan default risk.
 The analysis focuses on:
 - Understanding borrower, loan, and credit characteristics
